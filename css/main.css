@@ -40,3 +40,20 @@ button{
         font-size: inherit;
 }
 /* theme */
+header h1{
+    line-height: 8.0rem;
+    text-align: center;
+}
+aside{
+    max-width: 90rem;
+    margin: 2rem auto;
+    background-color: #fff;
+}
+aside img{
+    width: 100%;
+    padding: 1rem;
+}
+main{
+    max-width: 120rem;
+    margin: 0 auto 2rem;
+}
